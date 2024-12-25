@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm passionate about UI/UX design, user-centered development, and contributing to research on enhancing user experience. 
+I'm passionate about UI/UX design, user-centered development, and contributing to research on enhancing user experience. 
 
 
 ## 🌐 Socials:
