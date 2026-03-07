@@ -1,6 +1,6 @@
 # Hey there! 😸
 
-I'm [Ishan](www.linkedin.com/in/ishan-dwivedi-8146712b9), a Computer Science student with a strong interest in software development and data analysis, based in India.
+I'm [Ishan](https://www.linkedin.com/in/ishan-dwivedi-8146712b9), a Computer Science student with a strong interest in software development and data analysis, based in India.
 
 I enjoy **building things on the internet** and turning ideas into real projects.  
 If something sparks my curiosity, chances are I'll try to **design it, code it, and ship it.**
@@ -24,7 +24,7 @@ My goal is to continuously improve my problem-solving skills and build software 
 ## How to Reach Me
 
 - [My Portfolio](https://ishandwivedi.vercel.app/)
-- [Linkedin](www.linkedin.com/in/ishan-dwivedi-8146712b9)
+- [Linkedin](https://www.linkedin.com/in/ishan-dwivedi-8146712b9)
 
 ## Fun Facts
 
