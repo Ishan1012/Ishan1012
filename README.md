@@ -7,8 +7,6 @@ If something sparks my curiosity, chances are I'll try to **design it, code it, 
 
 My goal is to continuously improve my problem-solving skills and build software that is useful, efficient, and easy to use.
 
----
-
 ## What I'm Currently Working On
 
 - Building minimalist full-stack web applications to improve my development skills
@@ -16,57 +14,22 @@ My goal is to continuously improve my problem-solving skills and build software 
 - Experimenting with machine learning models and practical AI integrations
 - Working toward building strong software engineering fundamentals and contributing to impactful real-world projects.
 
----
-
 ## 🛠 Tools & Technologies
 
-**Languages**
-- Python
-- Java
-- C++
-- Javascript
-- Typescript
-
-**Frameworks & Libraries**
-- React
-- Next.js
-- Node.js
-- Express
-
-**Design & Productivity**
-- NotebookLM
-- Canva
-
-**Other Tools**
-- Git & Github
-- VS Code
-- AI tools
-
----
+**Languages**: Python, Java, C++, Javascript, Typescript
+**Frameworks & Libraries**: React, Next.js, Node.js, Express
+**Design & Productivity**: NotebookLM, Canva
+**Other Tools**: Git & Github, VS Code, AI tools
 
 ## How to Reach Me
 
 - [My Portfolio](https://ishandwivedi.vercel.app/)
 - [Linkedin](www.linkedin.com/in/ishan-dwivedi-8146712b9)
 
----
-
-## Featured Projects
-
-Some projects I have worked on while learning and experimenting:
-
-- **WellNest** – A full-stack medical consultation and appointment booking website
-- **CodeDuo** – A full-stack coding quiz platform
-- **ArtCorner** – A full-stack AI-powered image generation platform
-
----
-
 ## Fun Facts
 
 - I like playing guitar.
 - I enjoy watching anime and have developed basic conversational familiarity with Japanese.
 - **Hobbies**: playing guitar, anime, building web apps.
-
----
 
 Feel free to explore my repositories and projects!
