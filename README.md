@@ -1,16 +1,72 @@
-# 💫 About Me:
-I'm passionate about UI/UX design, user-centered development, and contributing to research on enhancing user experience. 
+# Hey there! 😸
 
+I'm [Ishan](www.linkedin.com/in/ishan-dwivedi-8146712b9), a Computer Science student with a strong interest in software development and data analysis, based in India.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-dwivedi-8146712b9) 
+I enjoy **building things on the internet** and turning ideas into real projects.  
+If something sparks my curiosity, chances are I'll try to **design it, code it, and ship it.**
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white).
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ishan1012&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ishan1012&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan1012&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+My goal is to continuously improve my problem-solving skills and build software that is useful, efficient, and easy to use.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ishan1012&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
+
+## What I'm Currently Working On
+
+- Building minimalist full-stack web applications to improve my development skills
+- Learning machine learning, deep learning, data science and other latest technologies
+- Experimenting with machine learning models and practical AI integrations
+- Working toward building strong software engineering fundamentals and contributing to impactful real-world projects.
+
+---
+
+## 🛠 Tools & Technologies
+
+**Languages**
+- Python
+- Java
+- C++
+- Javascript
+- Typescript
+
+**Frameworks & Libraries**
+- React
+- Next.js
+- Node.js
+- Express
+
+**Design & Productivity**
+- NotebookLM
+- Canva
+
+**Other Tools**
+- Git & Github
+- VS Code
+- AI tools
+
+---
+
+## How to Reach Me
+
+- [My Portfolio](https://ishandwivedi.vercel.app/)
+- [Linkedin](www.linkedin.com/in/ishan-dwivedi-8146712b9)
+
+---
+
+## Featured Projects
+
+Some projects I have worked on while learning and experimenting:
+
+- **WellNest** – A full-stack medical consultation and appointment booking website
+- **CodeDuo** – A full-stack coding quiz platform
+- **ArtCorner** – A full-stack AI-powered image generation platform
+
+---
+
+## Fun Facts
+
+- I like playing guitar.
+- I enjoy watching anime and have developed basic conversational familiarity with Japanese.
+- **Hobbies**: playing guitar, anime, building web apps.
+
+---
+
+Feel free to explore my repositories and projects!
