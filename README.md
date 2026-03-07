@@ -16,10 +16,10 @@ My goal is to continuously improve my problem-solving skills and build software 
 
 ## 🛠 Tools & Technologies
 
-**Languages**: Python, Java, C++, Javascript, Typescript
-**Frameworks & Libraries**: React, Next.js, Node.js, Express
-**Design & Productivity**: NotebookLM, Canva
-**Other Tools**: Git & Github, VS Code, AI tools
+- **Languages**: Python, Java, C++, Javascript, Typescript
+- **Frameworks & Libraries**: React, Next.js, Node.js, Express
+- **Design & Productivity**: NotebookLM, Canva
+- **Other Tools**: Git & Github, VS Code, AI tools
 
 ## How to Reach Me
 
