@@ -22,11 +22,6 @@ My goal is to continuously improve my problem-solving skills and build software 
 - **Design & Productivity**: NotebookLM, Canva
 - **Other Tools**: Git & Github, VS Code, AI tools
 
-## How to Reach Me
-
-- [My Portfolio](https://ishandwivedi.vercel.app/)
-- [Linkedin](https://www.linkedin.com/in/ishan-dwivedi-8146712b9)
-
 ## Fun Facts
 
 - I like playing guitar.
