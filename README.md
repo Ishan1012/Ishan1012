@@ -1,6 +1,6 @@
 # Hey there! 😸
 
-I'm [Ishan](https://www.linkedin.com/in/ishan-dwivedi-8146712b9), a Computer Science student with a strong interest in software development and data analysis, based in India.
+I'm [Ishan](https://www.linkedin.com/in/ishan-dwivedi-8146712b9), a Computer Science student with a strong interest in Software Engineering and AI systems, based in India.
 
 I enjoy **building things on the internet** and turning ideas into real projects.  
 If something sparks my curiosity, chances are I'll try to **design it, code it, and ship it.**
@@ -10,7 +10,7 @@ My goal is to continuously improve my problem-solving skills and build software 
 ## What I'm Currently Working On
 
 - Building minimalist full-stack web applications to improve my development skills
-- Learning machine learning, deep learning, data science and other latest technologies
+- Studying machine learning, deep learning and AI system design
 - Experimenting with machine learning models and practical AI integrations
 - Working toward building strong software engineering fundamentals and contributing to impactful real-world projects.
 
@@ -18,6 +18,7 @@ My goal is to continuously improve my problem-solving skills and build software 
 
 - **Languages**: Python, Java, C++, Javascript, Typescript
 - **Frameworks & Libraries**: React, Next.js, Node.js, Express
+- **AI / ML**: PyTorch, TensorFlow, Scikit-learn, NumPy, Pandas
 - **Design & Productivity**: NotebookLM, Canva
 - **Other Tools**: Git & Github, VS Code, AI tools
 
