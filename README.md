@@ -14,7 +14,7 @@ My goal is to continuously improve my problem-solving skills and build software 
 - Experimenting with machine learning models and practical AI integrations
 - Working toward building strong software engineering fundamentals and contributing to impactful real-world projects.
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - **Languages**: Python, Java, C++, Javascript, Typescript
 - **Frameworks & Libraries**: React, Next.js, Node.js, Express
